@@ -1,7 +1,7 @@
 # year-object-generator
 create object for a whole year
 
-`November: [
+``` November: [
     {
       shortDate: '11/01/2022',
       date: '01',
@@ -16,5 +16,6 @@ create object for a whole year
       dayShort: 'Tue',
       dayChar: 'T',
       longDate: 2022-11-01T04:00:00.000Z
-    },]`
+    },]
+```
 
