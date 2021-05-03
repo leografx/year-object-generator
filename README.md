@@ -1,5 +1,5 @@
 # year-object-generator
-create object for a whole year
+generates object for a whole year
 
 ``` 
 November: [
