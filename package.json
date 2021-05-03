@@ -1,0 +1,21 @@
+{
+  "name": "year-object-generator",
+  "version": "1.0.0",
+  "description": "create object for a whole year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leografx/year-object-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leografx/year-object-generator/issues"
+  },
+  "homepage": "https://github.com/leografx/year-object-generator#readme",
+  "type": "module"
+}
