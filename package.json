@@ -1,6 +1,6 @@
 {
   "name": "year-object-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create object for a whole year",
   "main": "index.js",
   "scripts": {

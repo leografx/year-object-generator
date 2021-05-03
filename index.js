@@ -28,9 +28,6 @@ function isValidDate(s) {
 }
 
 function dayOfWeek(s) {
-    if (! /^\d\d\/\d\d\/\d\d\d\d$/.test(s)) {
-        return false;
-    }
     const parts = s.split('/').map((p) => parseInt(p, 10));
     parts[0] -= 1;
     const d = new Date(parts[2], parts[0], parts[1]);
