@@ -1,7 +1,8 @@
 # year-object-generator
 create object for a whole year
 
-``` November: [
+``` 
+November: [
     {
       shortDate: '11/01/2022',
       date: '01',
